@@ -1,0 +1,15 @@
+^[]0;F64036279@2015cpp: ~^GF64036279@2015cpp:~$ whoami; pwd^M
+F64036279^M
+/home/F64036279^M
+^[]0;F64036279@2015cpp: ~^GF64036279@2015cpp:~$ git^Gconfig^G-l^H^H^H^H^H^H^H^H config-l^H^H^H^H^H^H^H^H^M
+git: 'config-l' is not a git command. See 'git --help'.^M
+^[]0;F64036279@2015cpp: ~^GF64036279@2015cpp:~$ git^Gconfig^G-l^H^H^H^H^H^H^H^H config-l^H^H^H^H^H^H^H^H^[[C^[[C^[[C^[[C^[[C^[[C -l^H^H^M
+^[]0;F64036279@2015cpp: ~^GF64036279@2015cpp:~$ git clone https://github.com/64036279/lab1.git^M
+Cloning into 'lab1'...^M
+remote: Counting objects: 6, done.^[[K^M
+remote: Compressing objects:  25% (1/4)   ^[[K^Mremote: Compressing objects:  50% (2/4)   ^[[K^Mremote: Compressing objects:  75% (3/4)   ^[[K^Mremote: Compressing objects: 100% (4/4)   ^[[K^Mremote: Compressing objects: 100% (4/4), done.^[[K^M
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0^[[K^M
+Unpacking objects:  16% (1/6)   ^MUnpacking objects:  33% (2/6)   ^MUnpacking objects:  50% (3/6)   ^MUnpacking objects:  66% (4/6)   ^MUnpacking objects:  83% (5/6)   ^MUnpacking objects: 100% (6/6)   ^MUnpacking objects: 100% (6/6), done.^M
+^[]0;F64036279@2015cpp: ~^GF64036279@2015cpp:~$ exit^M
+
+Script done on 2016å¹?3??3??(?±æ?) 18??8??3ç§?
